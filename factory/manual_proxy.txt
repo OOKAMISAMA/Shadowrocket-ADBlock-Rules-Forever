@@ -449,3 +449,6 @@ wholefoodsmarket.com
 wholekidsfoundation.org
 wholeplanetfoundation.org
 yamaxun.com
+
+# OpenAI
+openai.com
