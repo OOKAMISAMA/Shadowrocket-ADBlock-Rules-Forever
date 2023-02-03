@@ -73,6 +73,12 @@ tg.feidee.com
 cardniu.com
 ssjlicai.com
 snssdk.com
+xeiyt.cyou
+xjwtboz.cn
+sp0.baidu.com
+huiyu.vc
+toutiaoimg.com
+bitautotech.com
 
 #待反馈是否误杀
 ad.12306.cn
