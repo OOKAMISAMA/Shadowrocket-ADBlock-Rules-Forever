@@ -21,7 +21,6 @@ gifshow.com
 getui.com
 bytedance.com
 kuaishou.com
-bcebos.com
 pangolin-sdk-toutiao-b.com
 pglstatp-toutiao.com
 sogaha.cn
