@@ -1,6 +1,5 @@
 # 手工定义的 Reject 列表
 adjust.net.in
-libs.baidu.com
 bdcse.xyz
 klsynmld.fun
 go2yd.com
@@ -29,7 +28,6 @@ sogaha.cn
 umeng.com
 graph.facebook.com
 ugmedicare.cn
-libs.baidu.com
 asknqxc.cn
 njmbgc.cn
 jl-mt.com
