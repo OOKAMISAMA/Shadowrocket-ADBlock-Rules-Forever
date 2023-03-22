@@ -455,3 +455,6 @@ openai.com
 
 # Paramount
 paramountplus.com
+
+# New Bing
+bing.com
