@@ -1,4 +1,6 @@
 # 手工定义的 Reject 列表
+gdtimg.com
+us.l.qq.com
 adjust.net.in
 bdcse.xyz
 klsynmld.fun
