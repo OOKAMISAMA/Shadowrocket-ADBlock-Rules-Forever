@@ -1,4 +1,5 @@
 # 手工定义的 Reject 列表
+mqqadr.reader.qq.com
 gdtimg.com
 us.l.qq.com
 adjust.net.in
