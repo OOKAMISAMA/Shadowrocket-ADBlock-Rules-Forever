@@ -1,4 +1,6 @@
 # 手工定义的 Proxy 列表
+anthropic.com
+claude.ai
 discordapp.net
 discord.gg
 discord.com
