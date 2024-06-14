@@ -34,7 +34,10 @@ def getRulesStringFromFile(path, kind):
             ret += content + '\n'
         else:
             prefix = 'DOMAIN-SUFFIX'
-            if re.match(r'\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}', content):
+            if re.match(r'urlreg:\S+', content):
+                prefix = 'URL-REGEX'
+                content = content.replace('urlreg:', '')
+            elif re.match(r'\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}', content):
                 prefix = 'IP-CIDR'
                 if '/' not in content:
                     content += '/32'
@@ -77,7 +80,7 @@ values['gfwlist'] = getRulesStringFromFile('resultant/gfw.list', 'Proxy') \
 for conf_name in confs_names:
     file_template = open('template/'+conf_name+'.txt', 'r', encoding='utf-8')
     template = file_template.read()
-  
+
     if conf_name != 'sr_ad_only':
         template = str_head + template + str_foot
 

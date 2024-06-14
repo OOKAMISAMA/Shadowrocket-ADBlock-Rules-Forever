@@ -1,4 +1,7 @@
 # 手工定义的 Reject 列表
+wsapi.huya.com
+ylog.huya.com
+wuji.video.qq.com
 adstats.tencentmusic.com
 ad.tencentmusic.com
 adcdn.tencentmusic.com
