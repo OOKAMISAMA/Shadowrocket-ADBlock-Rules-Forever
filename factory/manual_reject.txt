@@ -1,4 +1,5 @@
 # 手工定义的 Reject 列表
+urlreg:ads.js
 adslvfile.qq.com
 adshmmsg.qq.com
 adshmct.qq.com
