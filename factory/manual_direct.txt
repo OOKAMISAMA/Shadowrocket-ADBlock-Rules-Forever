@@ -1,6 +1,7 @@
 # 手工定义的 Direct 列表
 530p.com
 api.tophub.today
+lastsal.com
 
 #153
 icloud-content.com
