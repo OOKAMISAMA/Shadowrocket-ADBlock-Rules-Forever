@@ -1,4 +1,10 @@
 # 手工定义的 Reject 列表
+bytetos.com
+bytescm.com
+pangolin-sdk-toutiao-b.com
+pangolin-sdk-toutiao.com
+pangolin-sdk-toutiao1.com
+pglstatp-toutiao.com
 bsccdn.net
 gjfzpt.cn
 jomodns.cn
